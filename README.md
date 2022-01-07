@@ -1,4 +1,4 @@
-# Desafio 1 - Utilizando Recursão
+# Desafio 1 | Utilizando Recursão
 
 * Sobre o desafio
 Nesse desafio, você deverá criar uma função que, dada uma lista de números (exemplo `[1, 3, 6, 43, 6]`), 
